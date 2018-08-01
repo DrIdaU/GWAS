@@ -1,6 +1,8 @@
 ---
-title: "Rmd Basics"
-output: html_document
+title: "Rmd Practice Run"
+author: "DrIdaU"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
